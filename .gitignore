@@ -1,0 +1,10 @@
+.DS_Store
+
+# mariadb temp files
+mariadb/*.log
+mariadb/ib_buffer_pool
+mariadb/ibtmp*
+
+# wordpress defaults
+wordpress/wp-content/plugins/akismet
+wordpress/wp-content/plugins/hello.php
